@@ -53,16 +53,15 @@ __Strengths:__
 
 ## Tools
 
-  * NodeJS frameworks: CucumberJS, WebDriverIO, Axios
-  * Postman
-  * GitBash
-  * MS SQL questing for testing purposes testing e-commerece
-  * Visual Studio Code (for IDE) as an editor with syntax highlighting for the Gherkin        language, which simplifies managment of feature files
-  * Jira
-  * Qase
-  * Jenkins pipelines usage for:
-   * Test framework versioning on GitHub
-   * Running framework  tests for e-commerce product
+ - NodeJS frameworks: CucumberJS, WebDriverIO, Axios
+ - Postman
+ - GitBash
+ - MS SQL questing for testing purposes testing e-commerece
+ - Visual Studio Code (for IDE) as an editor with syntax highlighting for the Gherkin        language, which simplifies managment of feature files  * Jira
+ - Qase
+ - Jenkins pipelines usage for:
+  * Test framework versioning on GitHub
+  * Running framework  tests for e-commerce product
 
 ## Education
   

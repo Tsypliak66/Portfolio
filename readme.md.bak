@@ -18,7 +18,7 @@ I'm a QA Engineer who has 9 monthes experience in manual QA engineer for web app
 
 I started my IT journey with Manual Testing, working on web apps in blogging, education, and marketing. I used Jira & Qase for managing test documentation.
 
-I also have some experience in Automation testing, where I worked on tests for an e-commerce platform. I used tools such as CucumberJS, WebDriver IO, and Axios.
+I also have some experience in Automation testing, where I worked on tests for an e-commerce platform and using NodeJS frameworks: CucumberJS, WebDriver IO, and Axios.
 
 Additionally, I'm good at keeping things organized, familiar with the Agile way of working using SCRUM and Kanban, and I understand concepts of REST API, OOP, JSON, XML, HTML, and CSS.
 
@@ -77,7 +77,7 @@ __Strengths:__
 
 ### Test cases and work in Qase: 
    
-- Test case to check how the main page opens for a logged-in user in the Quasigalley Blog application:
+- Test case to check how the main page opens for a logged-in user in the  Blog application:
 
 ![test cases](images/Qase.gif)
 
