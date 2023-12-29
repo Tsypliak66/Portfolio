@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm a Junior QA Engineer who has decided to switch careers after more than 30 years of experience in a different field. My goal is to develop in Quality Assurance.
+I'm a QA Engineer who has 9 monthes experience in manual QA engineer for web applications and 6 monthes in UI/API authomated testing. 
 
 I started my IT journey with Manual Testing, working on web apps in blogging, education, and marketing. I used Jira & Qase for managing test documentation.
 
@@ -79,57 +79,56 @@ __Strengths:__
    
 - Test case to check how the main page opens for a logged-in user in the Quasigalley Blog application:
 
-![test cases](Qase.gif)
+![test cases](images/Qase.gif)
 
 ### Bug report and work in Jira
 
 -
 
-![bug report](Jira.gif)
+![bug report](images/Jira.gif)
 
 
 ### Test run in Postman:
 
 - Test run in Postman in QuizSpike application
 
-![create a local version variable and assign it the value "2.4.3"](Postman1.png)
+![create a local version variable and assign it the value "2.4.3"](images/Postman1.png)
 
-![Body from POST UpdateProfile](Postman2.png)
+![Body from POST UpdateProfile](images/Postman2.png)
 
-![in the Pre-request Script, created a global variable userNameUpdated and assigned it a randomly generated value](Postman3.png)
+![in the Pre-request Script, created a global variable userNameUpdated and assigned it a randomly generated value](images/Postman3.png)
  
 
 ### Scenario in framework on CucumberJs
 
 - A simple positive login verification scenario
 
-![scenario](VSCLoginFeature1.png)
+![scenario](images/VSCLoginFeature1.png)
  
  
 ### Implements function click:
 
 - For example, like on lines 7 and 15 from the script in the previous screenshot
 
-![when](When.png)
+![when](images/When.png)
 
 - The clickElementByName(elementName) function, in turn, is implemented like this
 
-![clickElementByName](clickElementByName.png)
+![clickElementByName](images/clickElementByName.png)
 
 - the click function is from the WebDriverIO framework, and the getSingleElementBySelectorName(selectorName) function is implemented like this
 
-![getSingleElementBySelectorName](GetSingleElementBySelectorName.png)
+![getSingleElementBySelectorName](images/GetSingleElementBySelectorName.png)
 
 - functions getPageElementSelectorByName(selectorName) and getSingleElementByPath(selector) are implemented as follows
 
-![getPageElementSelectorByName](getPageElementSelectorByName.png)
+![getPageElementSelectorByName](images/getPageElementSelectorByName.png)
 
 - a web element in each class is defined (for example in LoginPage):
 
-![elementSelectorspng](elementSelectorspng.png)
+![elementSelectorspng](images/elementSelectorspng.png)
 
 
 ## Books I have read
-__"Software Testing - Base Course"__ Svyatoslav Kulikov 
-
-__"Software Testing Revealed by International Software Test Institute"
+__"Software Testing - Base Course"__ by Svyatoslav Kulikov 
+__"Software Testing Revealed"__  by International Software Test Institute

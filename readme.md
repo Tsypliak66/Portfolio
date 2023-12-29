@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm a Junior QA Engineer who has decided to switch careers after more than 30 years of experience in a different field. My goal is to develop in Quality Assurance.
+I'm a QA Engineer who has 9 monthes experience in manual QA engineer for web applications and 6 monthes in UI/API authomated testing. 
 
 I started my IT journey with Manual Testing, working on web apps in blogging, education, and marketing. I used Jira & Qase for managing test documentation.
 
@@ -25,7 +25,7 @@ Additionally, I'm good at keeping things organized, familiar with the Agile way 
 I enjoy learning, and my focus is on improving in testing and quality assurance. I'm looking for opportunities to develop and contribute my skills.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive]().
+You can download my CV as [a PDF from my Google Drive](CV.pdf).
 
 ## Skills
 
@@ -130,6 +130,5 @@ __Strengths:__
 
 
 ## Books I have read
-__"Software Testing - Base Course"__ Svyatoslav Kulikov 
-
-__"Software Testing Revealed by International Software Test Institute"
+__"Software Testing - Base Course"__ by Svyatoslav Kulikov 
+__"Software Testing Revealed"__  by International Software Test Institute
