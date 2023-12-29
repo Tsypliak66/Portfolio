@@ -32,24 +32,24 @@ You can download my CV as [a PDF from my Google Drive](CV.pdf).
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Technical experience:__
-  * Adding/editing UI/API tests in custom NodeJS BDD automation framework based on CucumberJS, WebDriverIO and Axios for e-commerce product
-  * Writing test documentation for blogging, educational and marketing web applications:
+- Adding/editing UI/API tests in custom NodeJS BDD automation framework based on CucumberJS, WebDriverIO and Axios for e-commerce product
+- Writing test documentation for blogging, educational and marketing web applications:
    * Test cases
    * Bug reports
    * Check-lists
    * Test plans
-  * Test-design techniques usage:
+- Test-design techniques usage:
    * Equivalence Partitioning
    * Boundary Value Analysis
    * Ad-hoc Testing etc
-  * API testing using Postman
-  * API structure analysis using documentation in Swagger
-  * Working with Jira, Qase for adding and editing test cases, bug reports, test plans
+- API testing using Postman
+- API structure analysis using documentation in Swagger
+- Working with Jira, Qase for adding and editing test cases, bug reports, test plans
   
 __Strengths:__
-  * Accuracy and attention to details
-  * Analytical Thinking and problem solving skills
-  * Team-oriented mindset with ability to unite people to achieve a goal
+- Accuracy and attention to details
+- Analytical Thinking and problem solving skills
+- Team-oriented mindset with ability to unite people to achieve a goal
 
 ## Tools
 
@@ -65,12 +65,12 @@ __Strengths:__
 
 ## Education
   
-  * Bachelor degree in system engineer (Vinnytsia National Technical University)
-  * 9-month course with personal mentoring on theory and practice of manual testing based on real web applications
-  * 6-month course with personal mentoring  on theory and practice of automation testing using a custom framework based on CucumberJS, WebDriver IO and Axios, testing the UI and API of the application after BDD
-  * Основи тестування програмного забезпечення (Lviv IT School) [Prometeus course](https://prometheus.org.ua/course/course-v1:LITS+115+2017_T4)
-  * SQL Basics courses [SQLBolt](https://sqlbolt.com/) 
-  * JavaScript with Sololern [Sololearn](https://www.sololearn.com/en/learn/languages/javascript)
+- Bachelor degree in system engineer (Vinnytsia National Technical University)
+- 9-month course with personal mentoring on theory and practice of manual testing based on real web applications
+- 6-month course with personal mentoring  on theory and practice of automation testing using a custom framework based on CucumberJS, WebDriver IO and Axios, testing the UI and API of the application after BDD
+- Основи тестування програмного забезпечення (Lviv IT School) [Prometeus course](https://prometheus.org.ua/course/course-v1:LITS+115+2017_T4)
+- SQL Basics courses [SQLBolt](https://sqlbolt.com/) 
+- JavaScript with Sololern [Sololearn](https://www.sololearn.com/en/learn/languages/javascript)
 
 ## Examples of my work
 

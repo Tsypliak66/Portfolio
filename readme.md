@@ -77,12 +77,30 @@ __Strengths:__
 ### Test cases and work in Qase: 
    
 - Test case to check how the main page opens for a logged-in user in the  Blog application:
-
+ * Test Case Name  
+ * Preconditions
+ * Steps to Reproduce
+ * Expected Result
+ * Actual Result
+ * Priority
+ * Environment
+ 
 ![test cases](images/Qase.gif)
 
 ### Bug report and work in Jira
 
--
+--An example of a bug where bold text is not saved when saving a post in the Quasigalley Blog application
+ * Title
+ * Bug Report ID
+ * Description
+ * Steps to Reproduce
+ * Expected Result
+ * Actual Result
+ * Environment
+ * Attachments 
+ * Priority
+ * Tester
+ * Status
 
 ![bug report](images/Jira.gif)
 
@@ -100,32 +118,36 @@ __Strengths:__
 
 ### Scenario in framework on CucumberJs
 
-- A simple positive login verification scenario
+- A simple positive login verification BDD scenario on Gherkin 
 
 ![scenario](images/VSCLoginFeature1.png)
  
  
 ### Implements function click:
 
-- For example, like on lines 7 and 15 from the script in the previous screenshot
+- For example, like on lines 7 and 15 from the script of BDD scenario on the previous screenshot
 
 ![when](images/When.png)
 
-- The clickElementByName(elementName) function, in turn, is implemented like this
+- The clickElementByName(elementName) function allows you to click on an element with the name elementName, and in turn, is implemented like this
 
 ![clickElementByName](images/clickElementByName.png)
 
-- the click function is from the WebDriverIO framework, and the getSingleElementBySelectorName(selectorName) function is implemented like this
+- The click function is taken from the WebDriverIO framework, and the getSingleElementBySelectorName(selectorName) function allows you to get the element by selector and is implemented as follows.
 
 ![getSingleElementBySelectorName](images/GetSingleElementBySelectorName.png)
 
-- functions getPageElementSelectorByName(selectorName) and getSingleElementByPath(selector) are implemented as follows
+- To extract a selector from elementsSelectors in a PageObjekt (in our case, LoginPage) by the name of the selector (in our case, loginHeaderLink)
+
+![elementSelectorspng](images/elementSelectorspng.png)
+
+- the getPageElementSelectorByName(selectorName) function is used, which is implemented like this:
 
 ![getPageElementSelectorByName](images/getPageElementSelectorByName.png)
 
-- a web element in each class is defined (for example in LoginPage):
+- The getSingleElementByPath(selector) function allows you to determine the required web element using the extracted selector (in our case - a.ico-login) and is implemented like this:
 
-![elementSelectorspng](images/elementSelectorspng.png)
+
 
 
 ## Books I have read
