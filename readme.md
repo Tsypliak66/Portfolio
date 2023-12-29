@@ -69,9 +69,9 @@ __Strengths:__
   * Bachelor degree in system engineer (Vinnytsia National Technical University)
   * 9-month course with personal mentoring on theory and practice of manual testing based on real web applications
   * 6-month course with personal mentoring  on theory and practice of automation testing using a custom framework based on CucumberJS, WebDriver IO and Axios, testing the UI and API of the application after BDD
-  * Основи тестування програмного забезпечення (Lviv IT School) (https://prometheus.org.ua/course/course-v1:LITS+115+2017_T4)
-  * SQL Basics courses (https://sqlbolt.com/) 
-  * JavaScript with Sololern (https://www.sololearn.com/en/learn/languages/javascript)
+  * Основи тестування програмного забезпечення (Lviv IT School) [Prometeus course](https://prometheus.org.ua/course/course-v1:LITS+115+2017_T4)
+  * SQL Basics courses [SQLBolt](https://sqlbolt.com/) 
+  * JavaScript with Sololern [Sololearn](https://www.sololearn.com/en/learn/languages/javascript)
 
 ## Examples of my work
 
