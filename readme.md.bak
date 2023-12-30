@@ -137,15 +137,15 @@ __Strengths:__
 
 ![getSingleElementBySelectorName](images/GetSingleElementBySelectorName.png)
 
-- To extract a selector from elementsSelectors in a PageObjekt (in our case, LoginPage) by the name of the selector (in our case, loginHeaderLink)
+- To extract a selector from elementsSelectors in a PageObjekt (in our case, LoginPage) by the name of the selector (in our case, loginButton)
 
 ![elementSelectorspng](images/elementSelectorspng.png)
 
 - the getPageElementSelectorByName(selectorName) function is used, which is implemented like this:
 
-![getPageElementSelectorByName](images/getPageElementSelectorByName.png)
+![getPageElementSelectorByName](images/2fun.png)
 
-- The getSingleElementByPath(selector) function allows you to determine the required web element using the extracted selector (in our case - a.ico-login) and is implemented like this:
+- The getSingleElementByPath(selector) function allows you to determine the required web element using the extracted selector (in our case - button.login-button) and is implemented like this:
 
 
 

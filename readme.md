@@ -109,11 +109,19 @@ __Strengths:__
 
 - Test run in Postman in QuizSpike application
 
-![create a local version variable and assign it the value "2.4.3"](images/Postman1.png)
+![For example test run API QuizSpike application](images/TestRun.png)
 
-![Body from POST UpdateProfile](images/Postman2.png)
+![Headers from POST UpdateProfile](images/Heders.png)
 
-![in the Pre-request Script, created a global variable userNameUpdated and assigned it a randomly generated value](images/Postman3.png)
+![Pre-requestScript from POST UpdateProfile](images/Pre-requestScript.png)
+
+![Body from POST UpdateProfile](images/Body.png)
+
+![Request-Responce from POST UpdateProfile](images/Request-Responce.png) 
+
+![![Tests from POST UpdateProfile](images/Tests.png)  
+
+ ![![Request-responce2 from POST UpdateProfile](images/Request-responce2.png)
  
 
 ### Scenario in framework on CucumberJs
