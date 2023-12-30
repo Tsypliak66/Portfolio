@@ -16,7 +16,7 @@
 
 I'm a QA Engineer who has 9 monthes experience in manual QA engineer for web applications and 6 monthes in UI/API authomated testing. 
 
-I started my IT journey with Manual Testing, working on web apps in blogging, education, and marketing. I used Jira & Qase for managing test documentation.
+I started my IT journey with Manual Testing, testing on web apps in blogging, education, and marketing. I used Jira & Qase for managing test documentation.
 
 I also have some experience in Automation testing, where I worked on tests for an e-commerce platform and using NodeJS frameworks: CucumberJS, WebDriver IO, and Axios.
 
@@ -57,11 +57,12 @@ __Strengths:__
 - Postman
 - GitBash
 - MS SQL questing for testing purposes testing e-commerece
-- Visual Studio Code (for IDE) as an editor with syntax highlighting for the Gherkin        language, which simplifies managment of feature files  * Jira
+- Visual Studio Code (for IDE) as an editor with syntax highlighting for the Gherkin        language, which simplifies managment of feature files  
+- Jira
 - Qase
 - Jenkins pipelines usage for:
-  * Test framework versioning on GitHub
-  * Running framework  tests for e-commerce product
+   * Test framework versioning on GitHub
+   * Running framework  tests for e-commerce product
 
 ## Education
   
@@ -76,44 +77,44 @@ __Strengths:__
 
 ### Test cases and work in Qase: 
    
-- Test case to check how the main page opens for a logged-in user in the  Blog application:
- * Test Case Name  
- * Preconditions
- * Steps to Reproduce
- * Expected Result
- * Actual Result
- * Priority
- * Environment
+**The test case validates the main page opening for a logged-in user in the blogging application. Consists of:**
+   * Test Case Name  
+   * Preconditions
+   * Steps to Reproduce
+   * Expected Result
+   * Actual Result
+   * Priority
+   * Environment
  
 ![test cases](images/Qase.gif)
 
 ### Bug report and work in Jira
 
---An example of a bug where bold text is not saved when saving a post in the Quasigalley Blog application
- * Title
- * Bug Report ID
- * Description
- * Steps to Reproduce
- * Expected Result
- * Actual Result
- * Environment
- * Attachments 
- * Priority
- * Tester
- * Status
+**An example of a bug where bold text is not saved when saving a post in the Quasigalley Blog application
+   * Title
+   * Bug Report ID
+   * Description
+   * Steps to Reproduce
+   * Expected Result
+   * Actual Result
+   * Environment
+   * Attachments 
+   * Priority
+   * Tester
+   * Status
 
 ![bug report](images/Jira.gif)
 
 
 ### Test run in Postman:
 
-- Test run in Postman in QuizSpike application
+ **Test run in Postman in Educational application**
 
  * For example test run API QuizSpike application
 ![Posman1](images/TestRun.png)
 
- * In Haders we write a token from a global variable
-![Headers from POST UpdateProfile](images/Heders.png)
+ * In Headers we write a token from a global variable
+![Headers from POST UpdateProfile](images/Headers.png)
 
  * In the global variable userNameUpdate is written the randomly created name of the test user.
 ![Pre-requestScript from POST UpdateProfile](images/Pre-requestScript.png)
@@ -125,10 +126,10 @@ __Strengths:__
 ![Request-Responce from POST UpdateProfile](images/Request-Responce.png)
 
  * In this request, we check that the user name has been updated and display a message about this on the console.
-![![Tests from POST UpdateProfile](images/Tests.png) 
+![Tests from POST UpdateProfile](images/Tests.png) 
  
  *I n a request body it looks like this
- ![![Request-responce2 from POST UpdateProfile](images/Request-responce2.png)
+![Request-responce2 from POST UpdateProfile](images/Request-responce2.png)
  
 
 ### Scenario in framework on CucumberJs
@@ -152,7 +153,7 @@ __Strengths:__
 
 ![getSingleElementBySelectorName](images/GetSingleElementBySelectorName.png)
 
-- To extract a selector from elementsSelectors in a PageObjekt (in our case, LoginPage) by the name of the selector (in our case, loginButton)
+- To extract a selector from elementsSelectors in a PageObjeckt (in our case, LoginPage) by the name of the selector (in our case, loginButton)
 
 ![elementSelectorspng](images/elementSelectorspng.png)
 
