@@ -109,18 +109,25 @@ __Strengths:__
 
 - Test run in Postman in QuizSpike application
 
-![For example test run API QuizSpike application](images/TestRun.png)
+*For example test run API QuizSpike application
+![Posman1](images/TestRun.png)
 
+*In Haders we write a token from a global variable
 ![Headers from POST UpdateProfile](images/Heders.png)
 
+*In the global variable userNameUpdate is written the randomly created name of the test user.
 ![Pre-requestScript from POST UpdateProfile](images/Pre-requestScript.png)
 
+*We write this value in userName, in userId we write the value of the global variable {{userId}}, and in the address field we place the hardcoded value testAPI@gmail.com
 ![Body from POST UpdateProfile](images/Body.png)
 
-![Request-Responce from POST UpdateProfile](images/Request-Responce.png) 
+*In a request body it looks like this
+![Request-Responce from POST UpdateProfile](images/Request-Responce.png)
 
-![![Tests from POST UpdateProfile](images/Tests.png)  
-
+*In this request, we check that the user name has been updated and display a message about this on the console.
+![![Tests from POST UpdateProfile](images/Tests.png) 
+ 
+*In a request body it looks like this
  ![![Request-responce2 from POST UpdateProfile](images/Request-responce2.png)
  
 
