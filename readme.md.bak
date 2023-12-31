@@ -167,6 +167,8 @@ An example of a bug where bold text is not saved when saving a post in the Quasi
 
 ![getSingleElementByPath](images/GetSingleElementByPath.png)
 
+**In the WebDriverIO framework, the function browser.$() returns an object representing the located element.**
+
 
 ## Books I have read
 
