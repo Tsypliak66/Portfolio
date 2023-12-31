@@ -77,7 +77,7 @@ __Strengths:__
 
 ### Test cases and work in Qase: 
    
-**The test case validates the main page opening for a logged-in user in the blogging application. Consists of:**
+The test case validates the main page opening for a logged-in user in the blogging application. Consists of:
    * Test Case Name  
    * Preconditions
    * Steps to Reproduce
@@ -90,7 +90,7 @@ __Strengths:__
 
 ### Bug report and work in Jira
 
-**An example of a bug where bold text is not saved when saving a post in the Quasigalley Blog application
+An example of a bug where bold text is not saved when saving a post in the Quasigalley Blog application:
    * Title
    * Bug Report ID
    * Description
@@ -108,28 +108,30 @@ __Strengths:__
 
 ### Test run in Postman:
 
- **Test run in Postman in Educational application**
+ Test run in Postman in Educational application
 
- * For example test run API QuizSpike application
+   *  For example test run API QuizSpike application. The work of the postman can be illustrated using the example of two requests (03 and 04): :
 ![Posman1](images/TestRun.png)
 
- * In Headers we write a token from a global variable
+   *  In Headers of request "03_UpdateProfile"   we write a token from a global variable - token:
 ![Headers from POST UpdateProfile](images/Headers.png)
 
- * In the global variable userNameUpdate is written the randomly created name of the test user.
+   *  In the request "03_UpdateProfile"  in Pre-requestScript in the global variable userNameUpdate is written the randomly created name of the test user
 ![Pre-requestScript from POST UpdateProfile](images/Pre-requestScript.png)
 
- * We write this value in userName, in userId we write the value of the global variable {{userId}}, and in the address field we place the hardcoded value "testAPI@gmail.com"
+   *  In Body of request "03_UpdateProfile"   we write this value in userName, in userId we write the value of the global variable {{userId}}, and in the address field we place the hardcoded value "testAPI@gmail.com"
 ![Body from POST UpdateProfile](images/Body.png)
 
- * In a request body it looks like this
+   *  The request's Body and Headers look like this::
 ![Request-Responce from POST UpdateProfile](images/Request-Responce.png)
-
- * In this request, we check that the user name has been updated and display a message about this on the console.
+ 
+   *  In  request 04_GetUserProfile, we check that the user name has been updated and display a message about this on the console:
 ![Tests from POST UpdateProfile](images/Tests.png) 
  
- *I n a request body it looks like this
+   *  In the body of the response you can see what values  acquire userId, userName, registrationDate:
 ![Request-responce2 from POST UpdateProfile](images/Request-responce2.png)
+
+   *  In addition, a message will be displayed on the console: "Body contains userNameUpdated" if the condition is met.
  
 
 ### Scenario in framework on CucumberJs

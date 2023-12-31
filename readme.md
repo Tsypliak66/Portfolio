@@ -110,7 +110,7 @@ An example of a bug where bold text is not saved when saving a post in the Quasi
 
  Test run in Postman in Educational application
 
-   *  For example test run API QuizSpike application. The work of the postman can be illustrated using the example of two requests (03 and 04): :
+   * For example, a test run of the educational application API QuizSpike. The work of the postman can be illustrated by the example of two requests (03 and 04).03_UpdateProfile - allows you to change the user profile (in our case, to a randomly generated one). 04_GetUserProfile - check the correctness of this action. :
 ![Posman1](images/TestRun.png)
 
    *  In Headers of request "03_UpdateProfile"   we write a token from a global variable - token:
@@ -161,11 +161,11 @@ An example of a bug where bold text is not saved when saving a post in the Quasi
 
 - the getPageElementSelectorByName(selectorName) function is used, which is implemented like this:
 
-![getPageElementSelectorByName](images/2fun.png)
+![getPageElementSelectorByName](images/getPageElementSelectorByName.png)
 
 - The getSingleElementByPath(selector) function allows you to determine the required web element using the extracted selector (in our case - button.login-button) and is implemented like this:
 
-
+![getSingleElementByPath](images/getSingleElementByPath.png)
 
 
 ## Books I have read
