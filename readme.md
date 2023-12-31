@@ -165,7 +165,7 @@ An example of a bug where bold text is not saved when saving a post in the Quasi
 
 - The getSingleElementByPath(selector) function allows you to determine the required web element using the extracted selector (in our case - button.login-button) and is implemented like this:
 
-![getSingleElementByPath](images/getSingleElementByPath.png)
+![getSingleElementByPath](images/GetSingleElementByPath.png)
 
 
 ## Books I have read
