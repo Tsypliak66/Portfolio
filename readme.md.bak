@@ -159,7 +159,7 @@ Test run in Postman in Educational application
 
 ![elementSelectorspng](images/elementSelectorspng.png)
 
-- The getPageElementSelectorByName(selectorName) function is used, which is implemented like this:
+- the getPageElementSelectorByName(selectorName) function is used, which is implemented like this:
 
 ![getPageElementSelectorByName](images/getPageElementSelectorByName.png)
 
