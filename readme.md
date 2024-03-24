@@ -1,6 +1,6 @@
 # Portfolio
 - [About me](#about-me)
-- [CV](#cv)
+- [CV](#Resume)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Education](#education)
@@ -25,7 +25,7 @@ Additionally, I'm good at keeping things organized, familiar with the Agile way 
 I enjoy learning, and my focus is on improving in testing and quality assurance. I'm looking for opportunities to develop and contribute my skills.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](CV.pdf).
+You can download my CV as [a PDF from my Google Drive](Resume.pdf).
 
 ## Skills
 
@@ -134,18 +134,17 @@ Test run in Postman in Educational application
    *  In addition, a message will be displayed on the console: "Body contains userNameUpdated" if the condition is not met.
  
 
-### Scenario in framework on CucumberJs
+### Scenarios in framework on CucumberJs using WebDriverIO
 
-- A simple positive login verification BDD scenario on Gherkin 
+1. A simple positive login verification BDD scenario on Gherkin 
 
 ![scenario](images/VSCLoginFeature1.png)
  
- 
-### Implements function click:
+2. Implements function click:
 
 - For example, like on lines 7 and 15 from the script of BDD scenario on the previous screenshot
 
-![when](images/When.png)
+![when](images/WhenW.png)
 
 - The clickElementByName(elementName) function allows you to click on an element with the name elementName, and in turn, is implemented like this
 
@@ -168,6 +167,30 @@ Test run in Postman in Educational application
 ![getSingleElementByPath](images/GetSingleElementByPath.png)
 
 In the WebDriverIO framework, the function browser.$() returns an object representing the located element.
+
+### Scenario in framework on CucumberJs using Axios
+
+1. A simple positive scenario - new customer creation BDD, Gherkin:
+
+![scenario](images/VSCCreateNewCustomer.png)
+
+2. Implements function Post:
+
+- For example, line 7 from the BDD scenario on the previous screenshot:
+
+![when](images/WhenA.png)
+
+- The implementation of this step involves executing function PostCustomer()on the object requestBody into which the new customer’s data is 
+written in lines 185-195.
+
+![PostCustomer](images/PostCustomer.png)
+
+- The function PostAuthorized should be executed before PostCustomer
+
+![PostAuthorized](images/PostAuthorized.png)
+ 
+ - To execute the PostAuthorized() function, the post() function from the Axios library is used, according to which a new customer is created 
+ upon the request of Post. This new customer's data is recorded in responsBody
 
 
 ## Books I have read
