@@ -1,6 +1,6 @@
 # Portfolio
 - [About me](#about-me)
-- [CV](#Resume)
+- [Resume](#Resume)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Education](#education)
@@ -24,7 +24,7 @@ Additionally, I'm good at keeping things organized, familiar with the Agile way 
 
 I enjoy learning, and my focus is on improving in testing and quality assurance. I'm looking for opportunities to develop and contribute my skills.
 
-## CV
+## Resume
 You can download my CV as [a PDF from my Google Drive](Resume.pdf).
 
 ## Skills
