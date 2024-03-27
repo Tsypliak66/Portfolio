@@ -8,8 +8,8 @@
   * [Test case and work in Qase](#test-case-and-work-in-Qase)
   * [Bug report and work in Jira](#bug-report-and-work-in-jira)
   * [Test run in Postman](#test-run-in-Postman)
-  * [Scenario in framework on CucumberJs using WebDriverIO](#scenario-in-framework-on-CucumberJs-using-WebDriverIO)
-  * [Scenario in framework on CucumberJs using Axios](#scenario-in-framework-on-CucumberJs-using-Axios)
+  * [Scenario in framework on CucumberJs](#scenario-in-framework-on-cucumberjs)
+  * [Implements function click](#implements-function-click)
 - [Books I have read](#books-i-have-read)
 
 ## About me
@@ -134,7 +134,7 @@ Test run in Postman in Educational application
    *  In addition, a message will be displayed on the console: "Body contains userNameUpdated" if the condition is not met.
  
 
-### Scenario in framework on CucumberJs using WebDriverIO
+### Scenarios in framework on CucumberJs using WebDriverIO
 
 1. A simple positive login verification BDD scenario on Gherkin 
 
