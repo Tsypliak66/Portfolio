@@ -1,6 +1,5 @@
 # Portfolio
 - [About me](#about-me)
-- [Resume](#Resume)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Education](#education)
@@ -8,8 +7,8 @@
   * [Test case and work in Qase](#test-case-and-work-in-Qase)
   * [Bug report and work in Jira](#bug-report-and-work-in-jira)
   * [Test run in Postman](#test-run-in-Postman)
-  * [Scenario in framework on CucumberJs](#scenario-in-framework-on-cucumberjs)
-  * [Implements function click](#implements-function-click)
+  * [Scenario in framework on CucumberJs using WebDriverIO](#scenario-in-framework-on-CucumberJs-using-WebDriverIO)
+  * [Scenario in framework on CucumberJs using Axios](#scenario-in-framework-on-CucumberJs-using-Axios)
 - [Books I have read](#books-i-have-read)
 
 ## About me
@@ -24,8 +23,6 @@ Additionally, I'm good at keeping things organized, familiar with the Agile way 
 
 I enjoy learning, and my focus is on improving in testing and quality assurance. I'm looking for opportunities to develop and contribute my skills.
 
-## Resume
-You can download my CV as [a PDF from my Google Drive](Resume.pdf).
 
 ## Skills
 
@@ -134,7 +131,7 @@ Test run in Postman in Educational application
    *  In addition, a message will be displayed on the console: "Body contains userNameUpdated" if the condition is not met.
  
 
-### Scenarios in framework on CucumberJs using WebDriverIO
+### Scenario in framework on CucumberJs using WebDriverIO
 
 1. A simple positive login verification BDD scenario on Gherkin 
 
